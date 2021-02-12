@@ -17,3 +17,4 @@ elif operacao == 'U' or operacao == 'u':
     print("O resultado da operação é: {} " .format(sub))
 else:
     print("Operação escolhida inválida!")
+input("Pressione enter para fechar a janela...")
