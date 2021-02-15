@@ -27,3 +27,9 @@ Idade: entre 0 e 150;
 Salário: maior que zero;
 Sexo: 'f' ou 'm';
 Estado Civil: 's', 'c', 'v', 'd';
+
+**************************
+
+Arquivo: exercicio_5.py 
+
+Descrição: # Peça ao usuário para digitar um número e faça a válidação de que o que foi digitado foi um número.
